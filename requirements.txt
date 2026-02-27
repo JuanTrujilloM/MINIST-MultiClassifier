@@ -2,3 +2,5 @@ streamlit
 numpy
 scikit-learn
 tensorflow
+matplotlib
+streamlit-drawable-canvas
