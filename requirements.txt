@@ -1,9 +1,4 @@
 streamlit
+numpy
 scikit-learn
 tensorflow
-numpy
-pandas
-matplotlib
-seaborn
-Pillow
-plotly
